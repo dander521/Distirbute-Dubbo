@@ -17,7 +17,7 @@
     <properties>
         <java.version>1.8</java.version>
         <lombok.version>1.18.4</lombok.version>
-        <dubbo.version>2.6.5</dubbo.version>
+        <dubbo.version>2.6.9</dubbo.version>
         <dubbo-spring-boot-starter.version>0.2.0</dubbo-spring-boot-starter.version>
         <fastjson.version>1.2.55</fastjson.version>
         <spring-context-support.version>1.0.2</spring-context-support.version>
